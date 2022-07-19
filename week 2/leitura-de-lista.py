@@ -10,11 +10,9 @@ entrada = input ("Digite a opção escolhida: ")
 if entrada == 'f':
   nota_final = [int (i) for i in input().split()]
   print (nota_final)
-
 elif entrada == 'n':
   nota = [float(i) for i in input().split()]
   print (nota)
-
 elif entrada == 's':
   sobrenome = [str(i) for i in input().split()]
   print (sobrenome)
