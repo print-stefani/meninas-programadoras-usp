@@ -1,6 +1,6 @@
 # Meninas Programadoras - USP
 
-Programas feitos para o curso de Meninas Programadoras 2022 oferecido pela USP - São Carlos. Foram 4 semanas de muito treino e dedicação em linguagem Python!
+Olá! Meu nome é Stefani Vasconcellos e este é um repositório contendo projetos e exercícios desenvolvidos para o curso Meninas Programadoras 2022 oferecido pela USP - São Carlos, turma 5. Foram 4 semanas de muito treino e dedicação em linguagem Python!
 
 Aula 1 - Introdução:
  - Apresentação dos monitores e alunos, dinâmica da prática de trabalho remoto.
