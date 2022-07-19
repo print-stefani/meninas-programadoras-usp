@@ -21,4 +21,5 @@ for i in range (total):
   
   #soma o total em toda a face
   soma = total_1 + total_2 + total_3
+  
 print (soma)
