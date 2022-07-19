@@ -14,5 +14,4 @@ while linha != 'CDA 1942':
   if linha != '':
     texto = texto + 1
   linha = input ()
-
 print (texto)
