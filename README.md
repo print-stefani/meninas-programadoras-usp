@@ -1,17 +1,21 @@
 # Meninas Programadoras - USP
 
-Olá! Meu nome é Stefani Vasconcellos e este é um repositório contendo projetos e exercícios desenvolvidos para o curso Meninas Programadoras 2022 oferecido pela USP - São Carlos, turma 5. Foram 4 semanas de muito treino e dedicação em linguagem Python!
+Olá! Meu nome é Stefani Vasconcellos e este é um repositório contendo projetos e exercícios desenvolvidos para o curso Meninas Programadoras 2023 oferecido pela USP - São Carlos, turma 1.
 
-Aula 1 - Introdução:
- - Apresentação dos monitores e alunos, dinâmica da prática de trabalho remoto.
- - Conceito de programação com plataforma de programação em blocos: sequência e condicionais; prática com conteúdo de álgebra e lógica, interação com o usuário. 
- - Conceitos e práticas utilizados na programação em blocos. entrada/saída e condicionais.
+Aulas 1 e 2: 
+Revisão do conteúdo do curso Meninas Programadoras.
 
-Aula 2: 
- - repetição,  práticas com exercícios da conteúdo de álgebra e lógica baseadas em problemas da Olimpíada Brasileira de Informática Modalidade Programação Nível Júnior (OBI júnior).
+Aulas 3 a 5: 
+Listas, dicionários e funções.
 
-Aula 3: 
-  - listas e práticas baseadas em problemas da OBI júnior.
+Aulas 6 a 9: 
+Introdução a algoritmos de busca e ordenação.
 
-Aula 4:
-  - Sessão de exercícios, seguida de sessão de avaliação.
+Aulas 10: 
+Práticas com algoritmos de escalonamento de tarefas.
+
+Aulas 11 a 12: 
+Introdução a busca em largura e profundidade em grafos.
+
+Aula 13:
+Avaliação.
